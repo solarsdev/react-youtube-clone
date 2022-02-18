@@ -1,0 +1,45 @@
+:root {
+  --youtube-red: #ff0000;
+  --youtube-black: #282828;
+}
+
+.header {
+  display: grid;
+  grid-template-columns: 40px repeat(3, 1fr);
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo__icon {
+  color: var(--youtube-red);
+}
+
+.logo__text {
+  color: var(--youtube-black);
+  font-size: 1.1rem;
+  letter-spacing: -1px;
+  margin-left: 5px;
+}
+
+.logo__countryCode {
+  align-self: baseline;
+  font-size: 0.7rem;
+}
+
+.search__form {
+  display: grid;
+  grid-template-columns: 1fr 40px;
+}
+
+.search__text {
+  outline: none;
+}
