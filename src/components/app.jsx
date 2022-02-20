@@ -9,7 +9,7 @@ const App = () => {
 
   const fetchData = async () => {
     const response = await fetch(
-      'https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=&key=AIzaSyDUSRu1cVcpGMYspOKgz6__99oaE3V29Hk'
+      `https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=&key=${process.env.REACT_APP_YOUTUBE_API_KEY}`
     );
     const json = await response.json();
     setVideos(json);
