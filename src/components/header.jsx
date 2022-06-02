@@ -34,6 +34,9 @@ const Header = () => {
           </button>
         </form>
       </div>
+      <div className={styles.avatar}>
+        <span>avatar here</span>
+      </div>
     </header>
   );
 };

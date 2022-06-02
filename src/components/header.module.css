@@ -6,6 +6,7 @@
 .header {
   display: grid;
   grid-template-columns: 40px repeat(3, 1fr);
+  height: 60px;
 }
 
 .menu {
@@ -25,14 +26,15 @@
 
 .logo__text {
   color: var(--youtube-black);
-  font-size: 1.1rem;
+  font-size: 1.2rem;
+  font-weight: 600;
   letter-spacing: -1px;
-  margin-left: 5px;
+  margin-left: 2px;
 }
 
 .logo__countryCode {
   align-self: baseline;
-  font-size: 0.7rem;
+  font-size: 0.6rem;
 }
 
 .search__form {
@@ -42,4 +44,10 @@
 
 .search__text {
   outline: none;
+}
+
+.avatar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
