@@ -1,0 +1,896 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "dTQuF05ERYijBMmeAnohLcieUDE",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "JP",
+  "pageInfo": {
+    "totalResults": 71941,
+    "resultsPerPage": 26
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5ujsjICB5Qj7PcUddMWHfolriSE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "q5AZWU8h3QE"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-25T09:30:15Z",
+        "channelId": "UCwg87jgwQPtJg0OzDRlOmPQ",
+        "title": "【中田敦彦】賃貸か持ち家か？家を買うのは損⁉不動産話全てまとめ",
+        "description": "中田敦彦のYouTube大学で賃貸か持ち家か？や住宅ローン、新築マンション購入など、賃貸、持ち家、不動産に関して解説した ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q5AZWU8h3QE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q5AZWU8h3QE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q5AZWU8h3QE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "中田敦彦のキリヌキ大学",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-25T09:30:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vH5EqHIklgIuHsJCHFV3ssj8h9I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wTteQj2t3_w"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-21T12:16:12Z",
+        "channelId": "UCMcPUQ32zjHF_pkfn_24LkQ",
+        "title": "【ひろゆき】※賃貸か持ち家かの終着点※ 君たちのような人は基本●●の方が良いと思う。なぜなら…【切り抜き/論破】",
+        "description": "１％の努力 https://amzn.to/33Dd3Qz チャンネル登録宜しくお願いします！ https://bit.ly/2LTTYD8 ご視聴ありがとうございます。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wTteQj2t3_w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wTteQj2t3_w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wTteQj2t3_w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ひろゆきのマインド【#ひろゆき #hiroyuki】《切り抜き》",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-21T12:16:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fOF_24TEz3S6cl3sQ_DFnUm6_nM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iD0misLev5w"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-02T08:00:07Z",
+        "channelId": "UC5vsOFl-XFOBhmFyNGzWOkg",
+        "title": "騙されないで！【賃貸vs持ち家】どっち論争。【怖い真実ぶっちゃけます】正しい選択肢とは！",
+        "description": "得か損か？自由か不自由か？その基準よりも前に考えなければいけないことがあります。 後半ではそのリスクの解消方法をお伝え ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iD0misLev5w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iD0misLev5w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iD0misLev5w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "織田京太の不動産アカデミー",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-02T08:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HHzkto8dR-PSpdUPwUf3Edzi7Eo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "egN01KC9xkQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-08T10:00:30Z",
+        "channelId": "UCXAsYeH_cwhkalZamJkQrdw",
+        "title": "【ひろゆき】👉賃貸か持ち家か‼️これで決着👉メリットデメリットを考えても悩ましい問題だがひろゆきの視点で将来的な提案をする【ひろゆきにゅあ/ひろゆき切り抜き/賃貸/持ち家/持ち家賃貸ひろゆき】",
+        "description": "早期リタイア（fire）が話題となる昨今。不動産投資として持ち家か賃貸かを考えれば賃貸を選ぶというのが、ひろゆきの回答だが ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/egN01KC9xkQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/egN01KC9xkQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/egN01KC9xkQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ひろゆきにゃあ【ひろゆき,hiroyuki】切り抜き",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-08T10:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8PiE76GfB3Rg3tq8SEPl0vyNcfA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1d8RJj42xgE"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-20T12:00:02Z",
+        "channelId": "UCLB3-6WN4Yg-efCxD9PMeKw",
+        "title": "【ひろゆき】賃貸か持ち家かの終着点。君たちのような人は基本●●を選べ。なぜなら...【切り抜き/賃貸/一軒家/持ち家】",
+        "description": "目次 00:00 賃貸派のひろゆき 00:32 社会と個人で最適解が違う 01:41 賃貸vs持ち家、○○の方が安い 05:35 子供の教育を考える ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1d8RJj42xgE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1d8RJj42xgE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1d8RJj42xgE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ひろゆき切り抜き集",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-20T12:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RPNP-KZGB8Lo2VBFRr0GvVw6vb8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LSZJVDhopQ4"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-27T09:15:01Z",
+        "channelId": "UCDFwTQvplF-awgXcIXWl61g",
+        "title": "【知らないと損】賃貸と持ち家なら完全に賃貸がお得な理由を徹底解説",
+        "description": "家を買うとリスクが大きい ・家賃を払い続けても資産が残らない 賃貸と持ち家、どっちが良いのか？お得なのか？難しい選択です ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LSZJVDhopQ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LSZJVDhopQ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LSZJVDhopQ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "らるふの賢楽FIRE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-27T09:15:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zmpy5GLaQ3xHZR8QoYbKNT-cK_0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iim8YocZhMo"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-16T22:00:03Z",
+        "channelId": "UC67Wr_9pA4I0glIxDt_Cpyw",
+        "title": "第87回 賃貸と持ち家(マイホーム)どっちがお得？【お金の勉強 初級編】",
+        "description": "00:00 intro 00:44 結論は物件や価値観による 03:38 人生の指針（ゴール）が大事 04:12 数字と感情は分けて考える 05:10 学長自身 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iim8YocZhMo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iim8YocZhMo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iim8YocZhMo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "両学長 リベラルアーツ大学",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-16T22:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zQrx2evWeUpeAZg-HNvsU1owF74",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YM_jHbXXGgc"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-02T11:00:07Z",
+        "channelId": "UC4YUA_Pnk2TfihuuauGzjPw",
+        "title": "【賃貸vs持ち家】選ぶべきは完全に「持ち家」な理由【元三菱UFJ銀行員解説】",
+        "description": "無料LINE登録で有料級特典12個⬇︎   https://lin.ee/qf3fPXBo ✓お金の不安がなくなる！LINE限定”特別授業”動画 ✓0からプロ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YM_jHbXXGgc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YM_jHbXXGgc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YM_jHbXXGgc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "お金と時間の学校 〜money time hack〜",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-02T11:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-xxQAEIql56R2477DdeqNMYnJ9c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5rKcxtrpWJE"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-31T09:20:04Z",
+        "channelId": "UCoQBJMzcwmXrRSHBFAlTsIw",
+        "title": "人気シリーズ“年金の現実”老後の暮らしは都会？田舎？生活が大きく変わる【しらべてみたら】",
+        "description": "年金だけで生活できるの？リアルな老後を取材すると、そこには年金生活を左右する大きな選択肢が！老後に住むべきなのは都会 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5rKcxtrpWJE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5rKcxtrpWJE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5rKcxtrpWJE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "FNNプライムオンライン",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-31T09:20:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "APRM0vSugAauPulypGf5DnETsGU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AIufYl-ZVwA"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-28T10:00:09Z",
+        "channelId": "UCECfnRv8lSbn90zCAJWC7cg",
+        "title": "第67回　持ち家と賃貸どっちが賢い？ローンの真実",
+        "description": "髙橋洋一「素朴な疑問」に答えるチャンネル 今回は持ち家と賃貸について解説。不動産リスクと厳しいローンの現実とは？",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AIufYl-ZVwA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AIufYl-ZVwA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AIufYl-ZVwA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "髙橋洋一チャンネル",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-28T10:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vzEEM49Rxnjx4fSUVvA-a0x6cT0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oAtQyPtbUFM"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-22T08:33:00Z",
+        "channelId": "UCwg87jgwQPtJg0OzDRlOmPQ",
+        "title": "【中田敦彦】賃貸と持ち家はどちらが得？マイホーム購入知っておきたいメリット・デメリット",
+        "description": "新築マンションは絶対に買っちゃダメ？不動産投資はするべき？不動産の価値と日本の不動産価値の未来を中田敦彦が解説 お金の ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oAtQyPtbUFM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oAtQyPtbUFM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oAtQyPtbUFM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "中田敦彦のキリヌキ大学",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-22T08:33:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Oxp-ZUqN_3sruO6W2aamf0QwCGM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l_IHD_ZJ8o0"
+      },
+      "snippet": {
+        "publishedAt": "2019-07-13T09:30:00Z",
+        "channelId": "UCb9h8EpBlGHv9Z896fu4yeQ",
+        "title": "賃貸 vs 持ち家 ←選ぶべきは、完全に「賃貸」です【断言する】",
+        "description": "00:00 導入 1:14 長期ローンはリスクが高すぎる 2:55 今の生活を維持できるかわからない 4:59 持ち家を持つことの最大の ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l_IHD_ZJ8o0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l_IHD_ZJ8o0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l_IHD_ZJ8o0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "マナブ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-07-13T09:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SzycVVDNdpUJYharHeF3tGnx4PM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TTY9MVEaXcE"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-03T10:00:23Z",
+        "channelId": "UC_epV3oR2ePKKr4gaY72lag",
+        "title": "【漫画】持ち家VS賃貸！どっちが得なのか？",
+        "description": "どちらもメリット・デメリットはありますね。 あなたはどっち派？ ▽チャンネル登録するがよい ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TTY9MVEaXcE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TTY9MVEaXcE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TTY9MVEaXcE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "レイナの部屋【ブラックわーるど】",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-03T10:00:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OjX1ijMhfUgk4_nb7oHdz4HiM7c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Q0KgYm05uqM"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-19T12:00:04Z",
+        "channelId": "UCUTgXNqRBqR33D5q10DfQXw",
+        "title": "【アニメ】持ち家と賃貸どっちが得なのか？",
+        "description": "社内で持ち家か賃貸かの論争が始まってしまった。 皆はどっちだと思う？ 持ち家だと思ったらチャンネル登録と高評価を、 賃貸 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q0KgYm05uqM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q0KgYm05uqM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q0KgYm05uqM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "テイコウペンギン",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-19T12:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "o_TJwtc8GCh1G6TbxBbtyjYdo58",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FIyq7PPSeOs"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-15T10:00:10Z",
+        "channelId": "UCDB0SvTruQ5sV9WfNfAVHeg",
+        "title": "【ホリエモン】持家よりも賃貸の方が圧倒的にコスパが良い理由！【切り抜き】",
+        "description": "ホリエモン☆ ・Youtube → https://www.youtube.com/user/takaponjp ☆元動画☆ ⇒https://youtu.be/_wfyZCJy430 #ホリエモン ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FIyq7PPSeOs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FIyq7PPSeOs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FIyq7PPSeOs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ホリエモンの頭の中【切り抜き】",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-15T10:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "w2wzi2sCzvWAMBykL_Gfz4-QJC8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VUPiDPYd9s0"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-27T03:00:03Z",
+        "channelId": "UCzRv67n2euydL4suRTmjOlA",
+        "title": "【お金の大学】家は買うな王道は賃貸「新築マンション」は絶対に買ってはいけない！？",
+        "description": "「中田敦彦のYoutube大学」が「両＠リベ大学長」の本を紹介！私も本を読んでいたのでどう紹介されるのか？注目しましたが、 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VUPiDPYd9s0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VUPiDPYd9s0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VUPiDPYd9s0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "住まいるTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-27T03:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bXAKQY5mQZz9zueueEe2NjU0kYg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YQqIuM9Cvik"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-12T10:00:13Z",
+        "channelId": "UCfTnJmRQP79C4y_BMF_XrlA",
+        "title": "【注文住宅は買うな】持ち家vs賃貸の上念司と沖有人が意見一致した理由とは？",
+        "description": "番組のフル視聴（73分）はこちらから ▶️https://bit.ly/3uYz9sm 10日間無料トライアルはこちらから https://bit.ly/3ur738D 学割（ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YQqIuM9Cvik/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YQqIuM9Cvik/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YQqIuM9Cvik/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NewsPicks /ニューズピックス",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-12T10:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n0m6TF1LZsYxLAsS9GUjZMonsKI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gLJQxN6ykNg"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-05T10:00:32Z",
+        "channelId": "UCfTnJmRQP79C4y_BMF_XrlA",
+        "title": "【激論】賃貸vs持ち家をめぐり、上念司と沖有人が主張をぶつけ合う",
+        "description": "番組のフル視聴（73分）はこちらから ▶️https://bit.ly/3FeEbFM 10日間無料トライアルはこちらから https://bit.ly/3ur738D 学割（ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gLJQxN6ykNg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gLJQxN6ykNg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gLJQxN6ykNg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NewsPicks /ニューズピックス",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-05T10:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lUfqqwYvGh1o1WxKWENySSbTkSA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_wfyZCJy430"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-24T10:00:09Z",
+        "channelId": "UCXjTiSGclQLVVU83GVrRM4w",
+        "title": "【勝間和代×堀江貴文】マイホームを買ってはいけない理由をホリエモンが熱弁！老後資金はいくら必要？",
+        "description": "本シリーズはNewsPicksで先行配信中です！ https://bit.ly/37ieDZL 前回の動画：【勝間和代×堀江貴文】車も家も買ってはいけない ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_wfyZCJy430/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_wfyZCJy430/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_wfyZCJy430/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "堀江貴文 ホリエモン",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-24T10:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fHcpIf-QfAwkqBidsG8ld_a5eq8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KG6GW_QmI98"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-19T02:43:23Z",
+        "channelId": "UCGS1dnvPH4zyyZZ2JjS22cg",
+        "title": "【賃貸VS持ち家】本当はどっちがお得なの？メリットとデメリットを超わかりやすく解説します！",
+        "description": "「賃貸VS持ち家」について世界一分かりやすく解説しました。 生涯で使うお金ランキング TOP７ https://youtu.be/27ufzKR_y7U ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KG6GW_QmI98/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KG6GW_QmI98/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KG6GW_QmI98/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "アリストテレス大学【思考力を高める】",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-19T02:43:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "a7HNwNtZmp3Mfp4QN0G_IKEan1s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "g54kDb6SpAM"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-02T02:40:51Z",
+        "channelId": "UCWoiNwdr7EEjgs2waxe_QpA",
+        "title": "Q&amp;A 勝間和代さん、持ち家と賃貸住宅では、どちらがお得ですか？",
+        "description": "YouTubeの方から用いると賃貸どちらの方がお得ですかといつもがありましたので、動画をまとめました。非常にこの質問をよく ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g54kDb6SpAM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g54kDb6SpAM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g54kDb6SpAM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "勝間和代が徹底的にマニアックな話をするYouTube",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-02T02:40:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "63xKsjQwDaq3eyZ2SmTWEH4lsUI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CDBmzxHR7GU"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-16T08:04:42Z",
+        "channelId": "UCOcQ68ppAk_ezdSNKzlP81Q",
+        "title": "【結論】賃貸がトクか、持ち家がトクか。マスコミが言わない本当の話。結論はカンタン。不動産投資・マンション・一戸建て購入ティップス",
+        "description": "買ったほうがいいのか、借りたほうがいいのか。この永遠のテーマに決着をつけます。結論はごくシンプルなもので、知って ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CDBmzxHR7GU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CDBmzxHR7GU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CDBmzxHR7GU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "長嶋 修の「日本と世界を読む」",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-16T08:04:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kkp7f8DrURUfKJjWV471ztn7sms",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tvuU8vLoS2Q"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-25T03:57:45Z",
+        "channelId": "UCOcQ68ppAk_ezdSNKzlP81Q",
+        "title": "2022.5.25 【超まとめ】賃貸か持ち家か。不動産市場最前線。バブル崩壊。金融リセット。グレートリセット",
+        "description": "賃貸か、持ち家か。「資産」「家賃のムダ」「所有リスク」「ライフサイクルやスタイル変化」 ○首都圏新築マンション市場。4 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tvuU8vLoS2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tvuU8vLoS2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tvuU8vLoS2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "長嶋 修の「日本と世界を読む」",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-25T03:57:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "trMlwdCiNKn0ovj1skuthR8AZGQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xL9NLIM1aLY"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-07T05:59:41Z",
+        "channelId": "UCShVFNpKoktY3tFH60ZgMpg",
+        "title": "本当は買いたい賃貸派の主張に徹底反論！【マイホーム購入】【マンション購入の窓口】【住宅ローン】",
+        "description": "【目次】 00:00 オープニング 00:36 この動画を見るメリット 01:43 マイホームを買わなくてもいい人の条件 09:10 一生賃貸派の ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xL9NLIM1aLY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xL9NLIM1aLY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xL9NLIM1aLY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "おおた社長の不動産チャンネル",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-07T05:59:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_djxkMR7VpAuLn3CipsCUV5eL9s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Dnyn6V38H2U"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-13T01:54:17Z",
+        "channelId": "UCZ8qWRZNszLQr53ARxNQZVA",
+        "title": "【60歳ひとり暮らし】終の棲家は持ち家か賃貸か ーマンション売却して思うことー／掃除機が壊れてホウキの良さに気がつく／網戸とレースカーテン洗ってプチ大掃除",
+        "description": "６０代 ＃ひとり暮らし ＃シニアライフ ご訪問ありがとうござます。 私は30年ほど前に離婚し、2人の子供は大学を卒業して独立 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dnyn6V38H2U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dnyn6V38H2U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dnyn6V38H2U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "yama",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-13T01:54:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bCRch2ZklnkTzdiCu-PRrGF7YQU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JeHjBTua2Kw"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-02T22:00:07Z",
+        "channelId": "UC7JFFirjXyCXzWkew_Hn9Eg",
+        "title": "【LINE】貯金額3万円の私を貧乏人扱いして金持ちマウントしてきたママ友「他のママさんも絶句してたわよw」→拡散して大喜びする勘違い女に衝撃の事実を教えてやった時の反応がwww",
+        "description": "【LINE】貯金額3万円の私を貧乏人扱いして金持ちマウントしてきたママ友「他のママさんも絶句してたわよw」→拡散して大喜び ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JeHjBTua2Kw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JeHjBTua2Kw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JeHjBTua2Kw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "100万ドルのライン物語",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-02T22:00:07Z"
+      }
+    }
+  ]
+}
