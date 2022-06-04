@@ -1,8 +1,9 @@
 import React, { useEffect, useState } from 'react';
-import './app.css';
 import './reset.css';
+import styles from './app.module.css';
 import VideoList from './video_list/video_list';
 import response from './response.json';
+import SearchHeader from './search_header/search_header';
 
 const App = () => {
   const [videos, setVideos] = useState([]);
@@ -24,7 +25,12 @@ const App = () => {
     //   .catch((error) => console.log('error', error));
   }, []);
 
-  return <VideoList videos={videos} />;
+  return (
+    <div className={styles.app}>
+      <SearchHeader />
+      <VideoList videos={videos} />
+    </div>
+  );
 };
 
 export default App;
