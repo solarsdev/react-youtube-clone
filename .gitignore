@@ -221,3 +221,4 @@ sketch
 # Support for Project snippet scope
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,git,react,visualstudiocode,node
+build
