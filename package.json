@@ -18,7 +18,7 @@
     "web-vitals": "^2.1.0"
   },
   "scripts": {
-    "predeploy": "yarn build",
+    "predeploy": "rm -rf build && yarn build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
