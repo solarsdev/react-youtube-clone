@@ -2,6 +2,7 @@ import React from 'react';
 import styles from './video_item.module.css';
 
 const VideoItem = ({
+  video,
   video: {
     snippet: {
       title,
@@ -11,8 +12,9 @@ const VideoItem = ({
       },
     },
   },
+  onVideoClick,
 }) => (
-  <li className={styles.container}>
+  <li className={styles.container} onClick={() => onVideoClick(video)}>
     <div className={styles.video}>
       <img className={styles.thumbnail} src={url} alt='video thumbnail' />
       <div className={styles.metadata}>
