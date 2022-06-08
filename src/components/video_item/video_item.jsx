@@ -13,16 +13,23 @@ const VideoItem = ({
     },
   },
   onVideoClick,
-}) => (
-  <li className={styles.container} onClick={() => onVideoClick(video)}>
-    <div className={styles.video}>
-      <img className={styles.thumbnail} src={url} alt='video thumbnail' />
-      <div className={styles.metadata}>
-        <p className={styles.title}>{title}</p>
-        <p className={styles.channel}>{channel}</p>
+  display,
+}) => {
+  const displayType = display === 'list' ? styles.list : styles.grid;
+  return (
+    <li
+      className={`${styles.container} ${displayType}`}
+      onClick={() => onVideoClick(video)}
+    >
+      <div className={styles.video}>
+        <img className={styles.thumbnail} src={url} alt='video thumbnail' />
+        <div className={styles.metadata}>
+          <p className={styles.title}>{title}</p>
+          <p className={styles.channel}>{channel}</p>
+        </div>
       </div>
-    </div>
-  </li>
-);
+    </li>
+  );
+};
 
 export default VideoItem;
