@@ -23,16 +23,21 @@ const App = () => {
     };
 
     fetch(
-      `https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=${query}&key=${process.env.REACT_APP_YOUTUBE_API_KEY}`,
+      `https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=${query}&type=video&key=${process.env.REACT_APP_YOUTUBE_API_KEY}`,
       requestOptions
     )
       .then((response) => response.json())
-      .then((result) => setVideos(result.items))
+      .then((result) =>
+        setVideos(
+          result.items.map((item) => ({ ...item, id: item.id.videoId }))
+        )
+      )
       .catch((error) => console.log('error', error));
   };
 
   useEffect(() => {
     setVideos(response.items);
+    setSelectedVideo(null);
     // console.log('useEffect');
     // const requestOptions = {
     //   method: 'GET',
