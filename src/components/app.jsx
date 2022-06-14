@@ -2,12 +2,10 @@ import React, { useEffect, useState } from 'react';
 import './reset.css';
 import styles from './app.module.css';
 import VideoList from './video_list/video_list';
-import response from './response.json';
-import searchResult from './search.json';
 import SearchHeader from './search_header/search_header';
 import VideoDetail from './video_detail/video_detail';
 
-const App = () => {
+const App = ({ youtube }) => {
   const [videos, setVideos] = useState([]);
   const [selectedVideo, setSelectedVideo] = useState(null);
 
@@ -16,41 +14,18 @@ const App = () => {
   };
 
   const search = (query) => {
-    // setVideos(searchResult.items);
-    const requestOptions = {
-      method: 'GET',
-      redirect: 'follow',
-    };
-
-    fetch(
-      `https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=${query}&type=video&key=${process.env.REACT_APP_YOUTUBE_API_KEY}`,
-      requestOptions
-    )
-      .then((response) => response.json())
-      .then((result) =>
-        setVideos(
-          result.items.map((item) => ({ ...item, id: item.id.videoId }))
-        )
-      )
-      .catch((error) => console.log('error', error));
+    youtube
+      .search(query) //
+      .then((videos) => {
+        setVideos(videos);
+        setSelectedVideo(null);
+      });
   };
 
   useEffect(() => {
-    setVideos(response.items);
-    setSelectedVideo(null);
-    // console.log('useEffect');
-    // const requestOptions = {
-    //   method: 'GET',
-    //   redirect: 'follow',
-    // };
-
-    // fetch(
-    //   `https://youtube.googleapis.com/youtube/v3/videos?part=snippet&chart=mostPopular&maxResults=25&regionCode=JP&key=${process.env.REACT_APP_YOUTUBE_API_KEY}`,
-    //   requestOptions
-    // )
-    //   .then((response) => response.json())
-    //   .then((result) => setVideos(result.items))
-    //   .catch((error) => console.log('error', error));
+    youtube
+      .mostPopular() //
+      .then((videos) => setVideos(videos));
   }, []);
 
   return (
