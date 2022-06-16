@@ -14,11 +14,11 @@ const App = ({ youtube }) => {
   };
 
   const search = (query) => {
+    setSelectedVideo(null);
     youtube
       .search(query) //
       .then((videos) => {
         setVideos(videos);
-        setSelectedVideo(null);
       });
   };
 
